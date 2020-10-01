@@ -31,7 +31,7 @@ void deleteBeginning()
 {
 	if(start == NULL)
 	{
-		cout<<"No element inside the linked list\n";
+		cout<<"linked list is underflow\n";
 	}
 	else
 	{
